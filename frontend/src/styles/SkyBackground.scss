@@ -1,0 +1,20 @@
+//Define gradient background color for the starry SkyBackground
+.skyBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #2c163f, #733aa542);
+  z-index: -2;
+  animation: gradientShift 10s infinite alternate;
+}
+
+//Define dynamic gradient colors
+@keyframes gradientShift {
+  0% { background: linear-gradient(180deg, #2c163f, #733aa542); }
+  100% { background: linear-gradient(180deg, #66378f, #ae6ce82d); }
+}
+
+
+
