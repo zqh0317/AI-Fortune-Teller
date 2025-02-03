@@ -16,10 +16,13 @@ AI 近年来被广泛应用于数据分析、逻辑推理等领域，但在 **�
 ## 📈 页面截图 & 使用方法
 
 ### 电脑端
-<img src="https://github.com/user-attachments/assets/2bd1741f-b228-4bba-920b-9ea4067e05bc">
+<img src="https://github.com/user-attachments/assets/9f588847-025c-4ff0-a585-dc0c42b83450">
+
+### iPad端
+<img src="https://github.com/user-attachments/assets/924e4bec-1073-4df5-a218-11775890d4a4" width="600">
 
 ### 手机端
-<img src="https://github.com/user-attachments/assets/3893ece1-44e0-4d0f-84cd-b7f23d6877cd" width="400">
+<img src="https://github.com/user-attachments/assets/924e4bec-1073-4df5-a218-11775890d4a4" width="400">
 
 ### 使用方法
 1️⃣ **输入问题**：在输入框输入想要咨询占卜师的问题（支持多国语言）  
@@ -69,11 +72,11 @@ AI 近年来被广泛应用于数据分析、逻辑推理等领域，但在 **�
     ┣ 📜 App.js        # 入口文件
     ┣ 📜 index.tsx     # 渲染根组件  
 ```   
- 
+
  ## 📬 联系方式
 - 🔗 GitHub: https://github.com/zqh0317?tab=repositories
-- 📧 email: zhengqihui0317@gmail.com
-- 💼 linkedin:
+- 📧 Email: zhengqihui0317@gmail.com
+- 💼 Linkedin:
 
 
 
