@@ -18,9 +18,6 @@ AI 近年来被广泛应用于数据分析、逻辑推理等领域，但在 **�
 ### 电脑端
 <img src="https://github.com/user-attachments/assets/9f588847-025c-4ff0-a585-dc0c42b83450">
 
-### iPad端
-<img src="https://github.com/user-attachments/assets/924e4bec-1073-4df5-a218-11775890d4a4" width="600">
-
 ### 手机端
 <img src="https://github.com/user-attachments/assets/924e4bec-1073-4df5-a218-11775890d4a4" width="400">
 
