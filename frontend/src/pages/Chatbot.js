@@ -13,7 +13,8 @@ function Chatbot() {
 
     try {
         //Sending API request and getting response
-        const response = await fetch('http://localhost:3000/api/chat', {
+        const apiUrl = process.env.REACT_APP_API_BASE_URL; 
+        const response = await fetch(`${apiUrl}/chat`, {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
