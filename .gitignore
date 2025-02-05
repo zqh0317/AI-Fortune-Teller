@@ -1,6 +1,4 @@
 backend/.env
 frontend/.env
-frontend/.env.production
 node_modules/
 *.log
-.vercel
