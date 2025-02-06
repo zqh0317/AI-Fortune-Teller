@@ -65,7 +65,7 @@ AI 近年来被广泛应用于数据分析、逻辑推理等领域，但在 **�
     ┣ 📜 .env.example         # 环境变量示例，需配置 OpenAI API 密钥
  ┣ 📂 frontend                # 前端（React）
     ┣ 📂 components           # 可复用组件
-      ┣ 📜 StarryBackgroud.js 
+      ┣ 📜 StarryBackgroud.js # 动态星空背景
     ┣ 📂 pages                # 页面级组件
       ┣ 📜 Chatbot.js         # 首页、占卜界面、前端API请求封装
     ┣ 📂 styles               # 样式文件
