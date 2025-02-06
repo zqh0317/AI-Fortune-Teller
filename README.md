@@ -85,6 +85,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/qihui-zheng-ab2618275/
 
 
+
 # English Version of Project Introduction 
 # 🌍 AI Fortune Teller (React & Node.js)
 
@@ -172,6 +173,8 @@ I independently handled **requirement analysis, UI design, front-end and back-en
 - 🔗 GitHub: https://github.com/zqh0317?tab=repositories
 - 📧 Email: zhengqihui0317@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/qihui-zheng-ab2618275/
+
+
 
 # 中文版项目简介
 # 🌍 AI占卜师（react & node.js）
