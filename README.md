@@ -1,4 +1,4 @@
-# 日本語の紹介 [English version follows after Japanese] 【中文版请下拉至最后】
+# 日本語の紹介 [English version follows after Japanese] 【中文版请下拉至最后】  
 # 🌍 AI占い師（React & Node.js）
 
 👋 こんにちは、私は鄭綺慧（ジェン・チフイ）です。React エコシステムに特化し、高効率で保守性の高いフロントエンドアプリケーションの構築を得意とするフロントエンド開発者です。
