@@ -57,9 +57,6 @@ AI 近年来被广泛应用于数据分析、逻辑推理等领域，但在 **�
 - 通过 **精细化 Prompt 工程**，规避AI无法进行非逻辑性思考的问题（预测财运等），使其以 **神秘且鼓励的风格** 进行回复  
 - 设定 AI 的语气，**保持一贯的“占卜师”身份**，增强真实感  
 
-## 🎬 线上demo
-👉 【点击这里体验】（url之后补充）
-
 ## 📂 代码结构
 ```bash
 📂 src
@@ -69,8 +66,8 @@ AI 近年来被广泛应用于数据分析、逻辑推理等领域，但在 **�
  ┣ 📂 frontend                # 前端（React）
     ┣ 📂 components           # 可复用组件
       ┣ 📜 StarryBackgroud.js 
-    ┣ 📂 pages                # 页面级组件（首页、占卜界面、前端API请求封装）
-      ┣ 📜 Chatbot.js
+    ┣ 📂 pages                # 页面级组件
+      ┣ 📜 Chatbot.js         # 首页、占卜界面、前端API请求封装
     ┣ 📂 styles               # 样式文件
       ┣ 📜 _mixin.scss        # 可复用样式
       ┣ 📜 _variables.scss    # 变量定义
